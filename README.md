@@ -1,4 +1,4 @@
-# scoreKeeper
+# ScoreKeeper
 A webApp for tracking the scores of two players/teams.
 
 ## Getting Started
