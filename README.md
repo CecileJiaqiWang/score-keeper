@@ -1,4 +1,9 @@
 # scoreKeeper
 A webApp for tracking the scores of two players/teams.
 
-Run the HTML file to use the app.
+## Getting Started
+```
+git clone https://github.com/CecileJiaqiWang/score-keeper.git
+cd score-keeper
+open scoreKeeper.html
+```
